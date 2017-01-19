@@ -8,7 +8,7 @@ class EyesOnMe extends React.Component {
   }
 
   focusFire(event) {
-    console.log('Good!');
+    console.log('Good! ');
   }
 
   blurFire(event) {
